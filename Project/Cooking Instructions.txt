@@ -1,0 +1,6 @@
+Ý tưởng: Hướng dẫn nấu ăn
+- Đăng ký / Đăng nhập
+- Lựa chọn các thể loại thực đơn mà bạn yêu thích
+- Hướng dẫn cho người mới bắt đầu sử dụng / hoặc có thể "Bỏ qua hướng dẫn" nếu người dụng đã biết cách sử dụng
+- Tìm kiếm các thực đơn hướng dẫn mà mình muốn thực hiện
+- Lựa chọn cách hướng dẫn: hướng dẫn bằng văn bản + hình ảnh ; hướng dẫn bằng âm thanh ; hướng dẫn bằng vids.
