@@ -57,9 +57,9 @@ append()
 <tên danh sách>.append(<giá trị phần tử cần thêm vào cuối danh sách>)
 insert() -> chèn vào một giá trị mới vị trí chỉ định
 <tên danh sách>.insert(<chỉ số>, <giá trị mới>)
-Remove: xóa giá trị nào đó ra khỏi danh sách
+Remove: xóa giá trị nào đó ra khỏi danh sách (giá trị nhận là kiểu int, float, str)
 <tên danh sách>.remove(<giá trị>)
-Pop: chỉ định vị trí phần tử muốn xóa trong danh
+Pop: chỉ định vị trí phần tử muốn xóa trong danh (giá trị nhận là kiểu int)
 <tên danh sách>.pop(<chỉ số>)
 Clear: Xóa toàn bộ phần tử trong danh sách
 <tên danh sách>.clear()
@@ -114,3 +114,6 @@ class <tên_lớp_cha>:
     <Các câu lệnh của lớp cha>
 class <tên_lớp_con>(<tên_lớp_cha>):
     <Các câu lệnh của lớp con>
+
+    Cú pháp tạo danh sách đối tượng
+<tên danh sách> = [<đối tượng 1>, <đối tượng 2>, ..., <đối tượng n>]
